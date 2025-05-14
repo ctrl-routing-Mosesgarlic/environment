@@ -1,15 +1,21 @@
 {
     "cSpell.words": [
         "datefmt",
+        "dotenv",
         "endfor",
         "eventactivity",
         "jsonify",
         "levelname",
+        "mpesa",
         "newspost",
         "NOTSET",
+        "PESA",
         "pymysql",
         "qualname",
         "sqlalchemy",
+        "stkpush",
+        "strftime",
+        "stylesheet",
         "uselist"
     ]
 }
